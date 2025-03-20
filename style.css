@@ -54,6 +54,16 @@ p {
     display:flex; 
 
 }
+
+#straw {
+    background-color: lightgreen;
+    top: 165px;
+    left: 140px;
+    width: 4px;
+    height: 20px;
+    position: absolute;
+}
+
 #test {
     border-bottom: 10px solid white;
     border-left: 20px solid transparent;
